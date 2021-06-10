@@ -1,0 +1,70 @@
+{
+  "uid" : "e21355138361480b",
+  "name" : "test_add_string__expect_exception",
+  "fullName" : "test_mymath#test_add_string__expect_exception",
+  "historyId" : "cb4e58acdeea1cfb42b89a42126fbcc4",
+  "time" : {
+    "start" : 1623357998379,
+    "stop" : 1623357998379,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-674"
+  }, {
+    "name" : "thread",
+    "value" : "2709-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "599f8f962d5ec375",
+        "reportUrl" : "https://zibinova.github.io/cicd-py-example/2//#testresult/599f8f962d5ec375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623306693643,
+          "stop" : 1623306693643,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e21355138361480b.json",
+  "parameterValues" : [ ]
+}
